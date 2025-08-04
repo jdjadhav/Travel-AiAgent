@@ -1,0 +1,8 @@
+Deployment Details (IBM Watsonx + Granite)
+✅ Deployment ID:fe3b46f4-d921-4d52-9d8b-b712d9ef2760
+🔷 Model: ibm/granite-3-3-8b-instruct
+🧠 Runtime: runtime-24.1-py3.11
+🌐 Space ID: f2496f71-8ab5-4762-affb-3f199b0db6c8
+🧾 Vector Index ID: a344d973-8df3-4bdb-bbfe-a79245557904
+🔗 Endpoint URL: https://us-south.ml.cloud.ibm.com/ml/v4/deployments/867e8a93-a0a1-4d08-b0f5-e58f714ad997/ai_service?version=2021-05-01
+🔗 Endpoint URL:https://us-south.ml.cloud.ibm.com/ml/v4/deployments/867e8a93-a0a1-4d08-b0f5-e58f714ad997/ai_service_stream?version=2021-05-01
