@@ -21,4 +21,4 @@ Design and build an intelligent Travel Agent AI Assistant that helps users plan 
 - IBM Watsonx.ai (Granite-3-3-8b-instruct)
 - IBM Vector Database + Prompt Templates
 - Python 3.11
-- GitHub Pages / Streamlit (optional frontend)
+- GitHub Pages  
